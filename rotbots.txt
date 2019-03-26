@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /ABC/
-Disallow: /1.JPG
-Disallow: /ABC/2.jpg
